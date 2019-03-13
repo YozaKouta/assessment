@@ -1,5 +1,7 @@
 //rebase テスト
 //rebase　テスト2です
+//rebase テスト3です。
+
 
 (function(){
     'use strict';
